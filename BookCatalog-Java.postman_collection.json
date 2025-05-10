@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Add Book",
+			"name": "ADD 1 Book",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -45,7 +45,7 @@
 			"response": []
 		},
 		{
-			"name": "Retreive all books",
+			"name": "GET all books",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -86,7 +86,7 @@
 			"response": []
 		},
 		{
-			"name": "Import books from XML",
+			"name": "ADD multiple books from XML",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -125,7 +125,7 @@
 			"response": []
 		},
 		{
-			"name": "Get a specific book",
+			"name": "GET a specific book",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -149,7 +149,7 @@
 			"response": []
 		},
 		{
-			"name": "Get Content",
+			"name": "GET Content for 1 Book",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -174,7 +174,7 @@
 			"response": []
 		},
 		{
-			"name": "Update Book 1",
+			"name": "UPDATE data for 1 Book",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -213,7 +213,7 @@
 			"response": []
 		},
 		{
-			"name": "Delete a book",
+			"name": "DELETE 1 a book",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -237,7 +237,7 @@
 			"response": []
 		},
 		{
-			"name": "add content to 3",
+			"name": "ADD content to Book 3",
 			"request": {
 				"auth": {
 					"type": "noauth"
